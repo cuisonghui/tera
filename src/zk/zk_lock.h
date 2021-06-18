@@ -15,6 +15,7 @@
 namespace tera {
 namespace zk {
 
+// yihui todo
 struct SeqNode {
   std::string name;
   int32_t seq;
